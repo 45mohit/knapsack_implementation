@@ -32,7 +32,7 @@ int knapSack(List<int> wt, List<int> val, int cap, int size) {
 
 ### Flutter App : :
 
-![Assets/Untitled.png](Assets/Untitled.png)
+![assets/Untitled.png](assets/Untitled.png)
 
 **Functionalities:**
 
@@ -47,7 +47,7 @@ _To input_
 2. Dynamic Addition of input fields.
 3. Swipe right to remove added inputs.
 
-![Assets/Untitled%201.png](Assets/Untitled%201.png)
+![assets/Untitled%201.png](assets/Untitled%201.png)
 
 **Functionalities:**
 
